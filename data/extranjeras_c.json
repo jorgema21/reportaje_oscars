@@ -1,0 +1,3522 @@
+[
+  {
+    "Año": 1948,
+    "Película": "El limpiabotas",
+    "Director": "Vittorio de Sica",
+    "País": "Italia",
+    "Situación": "G. premio especial",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": "1ª premiada, italiana y europea (p. e. n. c.)"
+  },
+  {
+    "Año": 1949,
+    "Película": "Monsieur Vincent",
+    "Director": "Maurice Cloche",
+    "País": "Francia",
+    "Situación": "G. premio especial",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "1ª francesa (p. e. n. c.)"
+  },
+  {
+    "Año": 1950,
+    "Película": "Ladrón de bicicletas",
+    "Director": "Vittorio de Sica",
+    "País": "Italia",
+    "Situación": "G. premio especial",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1951,
+    "Película": "Demasiado tarde",
+    "Director": "René Clement",
+    "País": "Francia",
+    "Situación": "G. honor.",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "Pelicula francoitaliana"
+  },
+  {
+    "Año": 1952,
+    "Película": "Rashomon",
+    "Director": "Akira Kurosawa",
+    "País": "Japón",
+    "Situación": "G. honor.",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "1ª japonesa y asiática (p. e. n. c.)"
+  },
+  {
+    "Año": 1953,
+    "Película": "Juegos prohibidos",
+    "Director": "René Clement",
+    "País": "Francia",
+    "Situación": "G. honor.",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1955,
+    "Película": "La puerta del infierno",
+    "Director": "Teinosuke Kinugasa",
+    "País": "Japón",
+    "Situación": "G. honor.",
+    "Nominaciones": 2,
+    "Premios": 2,
+    "Comentarios": "1ª pel. int. con más de un premio"
+  },
+  {
+    "Año": 1956,
+    "Película": "Samurái",
+    "Director": "Hiroshi Inagaki",
+    "País": "Japón",
+    "Situación": "G. honor.",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1957,
+    "Película": "La Strada",
+    "Director": "Federico Fellini",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": "1ª italiana competitiva y 1ª competitiva"
+  },
+  {
+    "Año": 1957,
+    "Película": "Qivitoq",
+    "Director": "Erik Balling",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1957,
+    "Película": "Gervaise",
+    "Director": "René Clement",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1957,
+    "Película": "El capitán de Köpenick",
+    "Director": "Helmut Käutner",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1957,
+    "Película": "El arpa birmana",
+    "Director": "Kon Ichikawa",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1958,
+    "Película": "Las noches de Cabiria",
+    "Director": "Federico Fellini",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1958,
+    "Película": "Puerta de las lilas",
+    "Director": "René Clair",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1958,
+    "Película": "El diablo ataca de noche",
+    "Director": "Robert Siodmak",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1958,
+    "Película": "Madre India",
+    "Director": "Mehboob Khan",
+    "País": "India",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1958,
+    "Película": "Nueve vidas",
+    "Director": "Arne Skouen",
+    "País": "Noruega",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1959,
+    "Película": "Mi tío",
+    "Director": "Jacques Tati",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "1ª francesa competitiva"
+  },
+  {
+    "Año": 1959,
+    "Película": "Chocolate para dos",
+    "Director": "Franz Peter Wirth",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1959,
+    "Película": "Rufufú",
+    "Director": "Mario Monicelli",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1959,
+    "Película": "El camino de un año",
+    "Director": "Giuseppe de Santis",
+    "País": "Serbia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Yugoslavia"
+  },
+  {
+    "Año": 1959,
+    "Película": "La venganza",
+    "Director": "Juan Antonio Bardem",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "1ª  esp. nominada"
+  },
+  {
+    "Año": 1960,
+    "Película": "Orfeu Negro",
+    "Director": "Marcel Camus",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1960,
+    "Película": "Paw, entre dos mundos",
+    "Director": "Astrid y Bjarne Henning-Jensen",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1960,
+    "Película": "Die Brücke",
+    "Director": "Bernhard Wicki",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1960,
+    "Película": "La grande guerra",
+    "Director": "Mario Monicelli",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1960,
+    "Película": "Dorp aan de rivier",
+    "Director": "Fons Rademakers",
+    "País": "Países Bajos",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1961,
+    "Película": "El manantial de la doncella",
+    "Director": "Ingmar Bergman",
+    "País": "Suecia",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": "1ª sueca competitiva"
+  },
+  {
+    "Año": 1961,
+    "Película": "La Vérité",
+    "Director": "Henri-Georges Clouzot",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1961,
+    "Película": "Kapò",
+    "Director": "Gillo Pontecorvo",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1961,
+    "Película": "Macario",
+    "Director": "Roberto Gavaldón",
+    "País": "México",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "1ª latina nominada"
+  },
+  {
+    "Año": 1961,
+    "Película": "El noveno círculo",
+    "Director": "France Štiglic",
+    "País": "Serbia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Yugoslavia"
+  },
+  {
+    "Año": 1962,
+    "Película": "Como en un espejo",
+    "Director": "Ingmar Bergman",
+    "País": "Suecia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1962,
+    "Película": "Harry og kammertjeneren",
+    "Director": "Bent Christensen",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1962,
+    "Película": "Un amor inmortal",
+    "Director": "Keisuke Kinoshita",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1962,
+    "Película": "Ánimas Trujano",
+    "Director": "Ismael Rodríguez Ruelas",
+    "País": "México",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1962,
+    "Película": "Plácido",
+    "Director": "Luis García Berlanga",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1963,
+    "Película": "Sibila",
+    "Director": "Serge Bourguignon",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1963,
+    "Película": "El pagador de promesas",
+    "Director": "Anselmo Duarte",
+    "País": "Brasil",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1963,
+    "Película": "Electra",
+    "Director": "Michael Cacoyannis",
+    "País": "Grecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1963,
+    "Película": "Los cuatro días de Nápoles",
+    "Director": "Nanni Loy",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1963,
+    "Película": "Tlayucan",
+    "Director": "Luis Alcoriza",
+    "País": "México",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1964,
+    "Película": "8½",
+    "Director": "Federico Fellini",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 3,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1964,
+    "Película": "Ta Kokkina fanaria",
+    "Director": "Vasilis Georgiadis",
+    "País": "Grecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1964,
+    "Película": "Koto",
+    "Director": "Noboru Nakamura",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1964,
+    "Película": "El cuchillo en el agua",
+    "Director": "Roman Polański",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1964,
+    "Película": "Los Tarantos",
+    "Director": "Francisco Rovira Beleta",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1965,
+    "Película": "Ayer, hoy y mañana",
+    "Director": "Vittorio de Sica",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1965,
+    "Película": "Los paraguas de Cherburgo",
+    "Director": "Jacques Demy",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1965,
+    "Película": "Sallah Shabati",
+    "Director": " Ephraim Kishon",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1965,
+    "Película": "La mujer de la arena",
+    "Director": "Hiroshi Teshigahara",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1965,
+    "Película": "El barrio del cuervo",
+    "Director": "Bo Widerberg",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1966,
+    "Película": "La tienda de la Calle Mayor",
+    "Director": "Ján Kadár y Elmar Klos",
+    "País": "Eslovaquia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "Checoslovaquia"
+  },
+  {
+    "Año": 1966,
+    "Película": "Sangre en la tierra",
+    "Director": "Vasilis Georgiadis",
+    "País": "Grecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1966,
+    "Película": "Matrimonio a la italiana",
+    "Director": "Vittorio de Sica",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1966,
+    "Película": "Kwaidan",
+    "Director": "Masaki Kobayashi",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1966,
+    "Película": "Querido John",
+    "Director": "Lars-Magnus Lindgren",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1967,
+    "Película": "Un hombre y una mujer",
+    "Director": "Claude Lelouch",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 4,
+    "Premios": 2,
+    "Comentarios": "1ª pel. int. con 4 nominaciones"
+  },
+  {
+    "Año": 1967,
+    "Película": "Los amores de una rubia",
+    "Director": "Miloš Forman",
+    "País": "Chequia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Checoslovaquia"
+  },
+  {
+    "Año": 1967,
+    "Película": "La batalla de Argel",
+    "Director": "Gillo Pontecorvo",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Película italoargelina"
+  },
+  {
+    "Año": 1967,
+    "Película": "Faraón",
+    "Director": "Jerzy Kawalerowicz",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1967,
+    "Película": "Tri",
+    "Director": "Aleksandar Petrović",
+    "País": "Serbia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Yugoslavia"
+  },
+  {
+    "Año": 1968,
+    "Película": "Trenes rigurosamente vigilados",
+    "Director": "Jiří Menzel",
+    "País": "Chequia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "Checoslovaquia"
+  },
+  {
+    "Año": 1968,
+    "Película": "Vivir para vivir",
+    "Director": "Claude Lelouch",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1968,
+    "Película": "Retrato de Chieko",
+    "Director": "Noboru Nakamura",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1968,
+    "Película": "Encontré zíngaros felices",
+    "Director": "Aleksandar Petrović",
+    "País": "Serbia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Yugoslavia"
+  },
+  {
+    "Año": 1968,
+    "Película": "El amor brujo",
+    "Director": "Francisco Rovira Beleta",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1969,
+    "Película": "Guerra y paz",
+    "Director": "Sergei Bondarchuk",
+    "País": "Rusia",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": "Unión soviética"
+  },
+  {
+    "Año": 1969,
+    "Película": "Hoří, má panenko",
+    "Director": "Milos Forman",
+    "País": "Chequia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Checoslovaquia"
+  },
+  {
+    "Año": 1969,
+    "Película": "Besos robados",
+    "Director": "François Truffaut",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1969,
+    "Película": "Los muchachos de la calle Pal",
+    "Director": "Zoltán Fábri",
+    "País": "Hungría",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1969,
+    "Película": "La ragazza con la pistola",
+    "Director": "Mario Monicelli",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1970,
+    "Película": "Z",
+    "Director": "Costa-Gavras",
+    "País": "Argelia",
+    "Situación": "Premiada",
+    "Nominaciones": 3,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1970,
+    "Película": "La batalla del río Neretva",
+    "Director": "Veljko Bulajic",
+    "País": "Croacia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1970,
+    "Película": "Mi noche con Maud",
+    "Director": "Éric Rohmer",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1970,
+    "Película": "Los hermanos Karamazov",
+    "Director": "Ivan Pyryev",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Unión soviética"
+  },
+  {
+    "Año": 1970,
+    "Película": "Ådalen 31",
+    "Director": "Bo Widerberg",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1971,
+    "Película": "Investigación sobre un ciudadano libre de toda sospecha",
+    "Director": "Elio Petri",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1971,
+    "Película": "Paix sur les champs",
+    "Director": "Jacques Boigelot",
+    "País": "Bélgica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1971,
+    "Película": "Hoa Binh, paz en Vietnam",
+    "Director": "Raoul Coutard",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1971,
+    "Película": "Tristana",
+    "Director": "Raoul Coutard",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1971,
+    "Película": "Primer amor",
+    "Director": "Maximilian Schell",
+    "País": "Suiza",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1972,
+    "Película": "El jardín de los Finzi-Contini",
+    "Director": "Vittorio de Sica",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1972,
+    "Película": "HaShoter Azoulay",
+    "Director": "Ephraim Kishon",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1972,
+    "Película": "Dodesukaden",
+    "Director": "Akira Kurosawa",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1972,
+    "Película": "Tchaikovsky",
+    "Director": "Igor Talankin",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": "Unión soviética"
+  },
+  {
+    "Año": 1972,
+    "Película": "Los emigrantes",
+    "Director": "Jan Troell",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1973,
+    "Película": "El discreto encanto de la burguesía",
+    "Director": "Luis Buñuel",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": "1er ganador esp. (no  esp.)"
+  },
+  {
+    "Año": 1973,
+    "Película": "Rosa, te amo",
+    "Director": "Moshé Mizrahi",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1973,
+    "Película": "Los amaneceres son aquí más apacibles",
+    "Director": "Stanislav Rostotski",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Unión soviética"
+  },
+  {
+    "Año": 1973,
+    "Película": "Mi querida señorita",
+    "Director": "Jaime de Armiñán",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1973,
+    "Película": "La nueva tierra",
+    "Director": "Jan Troell",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1974,
+    "Película": "La noche americana",
+    "Director": "François Truffaut",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1974,
+    "Película": "El peatón",
+    "Director": "Maximilian Schell",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1974,
+    "Película": "La casa en la calle Chelouche",
+    "Director": "Moshé Mizrahi",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1974,
+    "Película": "Delicias turcas",
+    "Director": "Paul Verhoeven",
+    "País": "Países Bajos",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1974,
+    "Película": "La invitación",
+    "Director": "Claude Goretta",
+    "País": "Suiza",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1975,
+    "Película": "Amarcord",
+    "Director": "Federico Fellini",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1975,
+    "Película": "La tregua",
+    "Director": "Sergio Renán",
+    "País": "Argentina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1975,
+    "Película": "Lacombe Lucien",
+    "Director": "Louis Malle",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1975,
+    "Película": "Juego de gatos",
+    "Director": "Károly Makk",
+    "País": "Hungría",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1975,
+    "Película": "Potop",
+    "Director": "Jerry Hoffman",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1976,
+    "Película": "Dersú Uzalá",
+    "Director": "Akira Kurosawa",
+    "País": "Rusia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "Película soviético-japonesa"
+  },
+  {
+    "Año": 1976,
+    "Película": "Perfume de mujer",
+    "Director": "Dino Risi",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1976,
+    "Película": "Bokyo",
+    "Director": "Kei Kumai",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1976,
+    "Película": "Actas de Marusia",
+    "Director": "Miguel Littín",
+    "País": "México",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1976,
+    "Película": "La tierra de la gran promesa",
+    "Director": "Andre Wajda",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1977,
+    "Película": "Negros y blancos en color",
+    "Director": "Jean-Jacques Annaud",
+    "País": "Costa de Marfil",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1977,
+    "Película": "Primo, prima",
+    "Director": "Jean-Charles Tacchella",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 3,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1977,
+    "Película": "Jakob, el mentiroso",
+    "Director": "Frank Beyer",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1977,
+    "Película": "Siete bellezas",
+    "Director": "Lina Wertmuller",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 4,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1977,
+    "Película": "Noches y días",
+    "Director": "Jerzy Antczak",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1978,
+    "Película": "Madame Rosa",
+    "Director": "Moshe Mizrahi",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1978,
+    "Película": "Ifigeneia",
+    "Director": "Michael Cacoyannis",
+    "País": "Grecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1978,
+    "Película": "Operación Relámpago",
+    "Director": "Menahem Golan",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1978,
+    "Película": "Una jornada particular",
+    "Director": "Ettore Scola",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1978,
+    "Película": "Ese oscuro objeto del deseo",
+    "Director": "Luis Buñuel",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1979,
+    "Película": "¿Quiere ser el amante de mi mujer?",
+    "Director": "Bertrand Blier",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1979,
+    "Película": "La celda de cristal",
+    "Director": "Hans W Geißendörfer",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1979,
+    "Película": "Húngaros",
+    "Director": "Zoltán Fábri",
+    "País": "Hungría",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1979,
+    "Película": "¡Que viva Italia!",
+    "Director": "Dino Risi, Mario Monicelli y Ettore Scola",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1979,
+    "Película": "Bim, mi mejor amigo",
+    "Director": "Stanislav Rostotsky",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Unión soviética"
+  },
+  {
+    "Año": 1980,
+    "Película": "El tambor de hojalata",
+    "Director": "Volker Schlöndorff",
+    "País": "Alemania",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1980,
+    "Película": "Una vida de mujer",
+    "Director": "Claude Sautet",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1980,
+    "Película": "Olvidar Venecia",
+    "Director": "Franco Brusati",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1980,
+    "Película": "Las señoritas de Wilko",
+    "Director": "Andrzej Wajda",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1980,
+    "Película": "Mamá cumple cien años",
+    "Director": "Carlos Saura",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1981,
+    "Película": "Moscú no cree en las lágrimas",
+    "Director": "Vladimir Menshov",
+    "País": "Rusia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "Unión Soviética"
+  },
+  {
+    "Año": 1981,
+    "Película": "El último metro",
+    "Director": "François Truffaut",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1981,
+    "Película": "Confianza",
+    "Director": "István Szabó",
+    "País": "Hungría",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1981,
+    "Película": "Kagemusha",
+    "Director": "Akira Kurosawa",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1981,
+    "Película": "El nido",
+    "Director": "Jaime de Armiñán",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1982,
+    "Película": "Mefisto",
+    "Director": "István Szabó",
+    "País": "Hungría",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1982,
+    "Película": "Tres hermanos",
+    "Director": "Francesco Rosi",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1982,
+    "Película": "Muddy River",
+    "Director": "Kōhei Oguri",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1982,
+    "Película": "El hombre de hierro",
+    "Director": "Andrzej Wajda",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1982,
+    "Película": "La barca está llena",
+    "Director": "Markus Imhoof",
+    "País": "Suiza",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1983,
+    "Película": "Volver a empezar",
+    "Director": "José Luis Garci",
+    "País": "España",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": "1ª  esp. premiada"
+  },
+  {
+    "Año": 1983,
+    "Película": "Coup de torchon",
+    "Director": "Bertrand Tavernier",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1983,
+    "Película": "Alsino y el cóndor",
+    "Director": "Miguel Littín",
+    "País": "Nicaragua",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1983,
+    "Película": "Vida privada",
+    "Director": "Yuli Raizman",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Unión soviética"
+  },
+  {
+    "Año": 1983,
+    "Película": "El vuelo del águila",
+    "Director": "Jan Troell",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1984,
+    "Película": "Fanny y Alexander",
+    "Director": "Ingmar Bergman",
+    "País": "Suecia",
+    "Situación": "Premiada",
+    "Nominaciones": 6,
+    "Premios": 4,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1984,
+    "Película": "La sala de baile",
+    "Director": "Ettore Scola",
+    "País": "Argelia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1984,
+    "Película": "Entre nosotras",
+    "Director": "Diane Kurys",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1984,
+    "Película": "Jób lázadása",
+    "Director": "Imre Gyöngyössy y Barna Kabay",
+    "País": "Hungría",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1984,
+    "Película": "Carmen",
+    "Director": "Carlos Saura",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1985,
+    "Película": "La diagonal del loco",
+    "Director": "Richard Dembo",
+    "País": "Suiza",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1985,
+    "Película": "Camila",
+    "Director": "María Luisa Bemberg",
+    "País": "Argentina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1985,
+    "Película": "Detrás de los muros",
+    "Director": "Uri Barbash",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1985,
+    "Película": "Sesión continua",
+    "Director": "José Luis Garci",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1985,
+    "Película": "Romance en tiempos de guerra",
+    "Director": "Piotr Todorovski",
+    "País": "Ucrania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Unión soviética"
+  },
+  {
+    "Año": 1986,
+    "Película": "La historia oficial",
+    "Director": "Luis Puenzo",
+    "País": "Argentina",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1986,
+    "Película": "Tres solteros y un biberón",
+    "Director": "Coline Serreau",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1986,
+    "Película": "Amarga cosecha",
+    "Director": "Agnieszka Holland",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Alemania Occidental"
+  },
+  {
+    "Año": 1986,
+    "Película": "Coronel Redl",
+    "Director": "István Szabó",
+    "País": "Hungría",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1986,
+    "Película": "Papá está en viaje de negocios",
+    "Director": "Emir Kusturica",
+    "País": "Serbia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Yugoslavia"
+  },
+  {
+    "Año": 1987,
+    "Película": "El asalto",
+    "Director": "Fons Rademakers",
+    "País": "Países Bajos",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1987,
+    "Película": "38",
+    "Director": "Wolfgang Glück",
+    "País": "Austria",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1987,
+    "Película": "El declive del imperio americano",
+    "Director": "Denys Arcand",
+    "País": "Canadá",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1987,
+    "Película": "Mi dulce pueblecito",
+    "Director": "Jiří Menzel",
+    "País": "Chequia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Checoslovaquia"
+  },
+  {
+    "Año": 1987,
+    "Película": "37º2 le matin",
+    "Director": "Jean Jacques Beineix",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1988,
+    "Película": "El festín de Babette",
+    "Director": "Gabriel Axel",
+    "País": "Dinamarca",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1988,
+    "Película": "Adiós, muchachos",
+    "Director": "Louis Malle",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1988,
+    "Película": "La familia",
+    "Director": "Ettore Scola",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1988,
+    "Película": "Pathfinder, el guía del desfiladero",
+    "Director": "Nils Gaup",
+    "País": "Noruega",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1988,
+    "Película": "Asignatura aprobada",
+    "Director": "José Luis Garci",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1989,
+    "Película": "Pelle el conquistador",
+    "Director": "Bille August",
+    "País": "Dinamarca",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1989,
+    "Película": "El maestro de música",
+    "Director": "Gerard Corbiau",
+    "País": "Bélgica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1989,
+    "Película": "Hanussen",
+    "Director": "István Szabó",
+    "País": "Hungría",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1989,
+    "Película": "Salaam Bombay!",
+    "Director": "Mira Nair",
+    "País": "India",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1989,
+    "Película": "Mujeres al borde de un ataque de nervios",
+    "Director": "Pedro Almodóvar",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1990,
+    "Película": "Cinema Paradiso",
+    "Director": "Giuseppe Tornatore",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1990,
+    "Película": "Jesús de Montreal",
+    "Director": "Denys Arcand",
+    "País": "Canadá",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1990,
+    "Película": "Bailando con Regitze",
+    "Director": "Kaspar Rostrup",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1990,
+    "Película": "La pasión de Camille Claudel",
+    "Director": "Bruno Nuytten",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1990,
+    "Película": "Lo que le pasó a Santiago",
+    "Director": "Jacobo Morales",
+    "País": "Puerto Rico",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1991,
+    "Película": "Viaje a la esperanza",
+    "Director": "Xavier Koller",
+    "País": "Suiza",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1991,
+    "Película": "Ju Dou: Semilla de crisantemo",
+    "Director": "Zhang Yimou y Yang Fengliang",
+    "País": "China",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1991,
+    "Película": "Cyrano de Bergerac",
+    "Director": "Jean-Paul Rappeneau",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 5,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1991,
+    "Película": "La chica terrible",
+    "Director": "Michael Verhoeven",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1991,
+    "Película": "Puertas abiertas",
+    "Director": "Gianni Amelio",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1992,
+    "Película": "Meditarraneo",
+    "Director": "Gabriele Salvatores",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1992,
+    "Película": "La linterna roja",
+    "Director": "Zhang Yimou",
+    "País": "China",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Hong Kong"
+  },
+  {
+    "Año": 1992,
+    "Película": "Escuela primaria",
+    "Director": "Jan Svérak",
+    "País": "Chequia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Checoslovaquia"
+  },
+  {
+    "Año": 1992,
+    "Película": "Hijos de la naturaleza",
+    "Director": "Fridrik Thor Fridriksson",
+    "País": "Islandia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1992,
+    "Película": "Oxen",
+    "Director": "Sven Nykvist",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1993,
+    "Película": "Indochina",
+    "Director": "Régis Wargnier",
+    "País": "Francia",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1993,
+    "Película": "Daens",
+    "Director": "Stijn Coninx",
+    "País": "Bélgica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1993,
+    "Película": "Schtonk!",
+    "Director": "Helmut Dietl",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1993,
+    "Película": "Urga, el territorio del amor",
+    "Director": "Nikita Mijalkov",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1994,
+    "Película": "Belle Époque",
+    "Director": "Fernando Trueba",
+    "País": "España",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1994,
+    "Película": "Adiós a mi concubina",
+    "Director": "Chen Kaige",
+    "País": "China",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": "Hong Kong"
+  },
+  {
+    "Año": 1994,
+    "Película": "El banquete de boda",
+    "Director": "Ang Lee",
+    "País": "Taiwán",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1994,
+    "Película": "El olor de la papaya verde",
+    "Director": "Anh Hung Tran",
+    "País": "Vietnam",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1994,
+    "Película": "Hedd Wyn",
+    "Director": "Paul Turner",
+    "País": "Reino Unido",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1995,
+    "Película": "Quemado por el sol",
+    "Director": "Nikita Mijalkov",
+    "País": "Rusia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1995,
+    "Película": "Farinelli",
+    "Director": "Gérard Corbiau",
+    "País": "Bélgica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1995,
+    "Película": "Comer, beber, amar",
+    "Director": "Ang Lee",
+    "País": "Taiwán",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1995,
+    "Película": "Fresa y chocolate",
+    "Director": "Tomás Gutiérrez Alea y Juan Carlos Tabío",
+    "País": "Cuba",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1995,
+    "Película": "Antes de la lluvia",
+    "Director": "Milcho Manchevski",
+    "País": "Macedonia del Norte",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1996,
+    "Película": "Antonia",
+    "Director": "Marleen Gorris",
+    "País": "Países Bajos",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1996,
+    "Película": "Poussières de vie",
+    "Director": "Rachid Bouchareb",
+    "País": "Argelia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1996,
+    "Película": "El cuarteto",
+    "Director": "Fábio Barreto",
+    "País": "Brasil",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1996,
+    "Película": "El hombre de las estrellas",
+    "Director": "Giuseppe Tornatore",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1996,
+    "Película": "La belleza de las cosas",
+    "Director": "Bo Widerberg",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1997,
+    "Película": "Kolya",
+    "Director": "Jan Svěrák",
+    "País": "Chequia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1997,
+    "Película": "Ridicule",
+    "Director": "Patrice Leconte",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1997,
+    "Película": "El chef enamorado",
+    "Director": "Nana Djordjadze",
+    "País": "Georgia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1997,
+    "Película": "La otra cara del domingo",
+    "Director": "Berit Nesheim",
+    "País": "Noruega",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1997,
+    "Película": "El prisionero de las montañas",
+    "Director": "Sergei Bodrov",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1998,
+    "Película": "Carácter",
+    "Director": "Mike van Diem",
+    "País": "Países Bajos",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1998,
+    "Película": "Cuatro días de septiembre",
+    "Director": "Bruno Barreto",
+    "País": "Brasil",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1998,
+    "Película": "Más allá del silencio",
+    "Director": "Caroline Link",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1998,
+    "Película": "Vor. El ladrón",
+    "Director": "Pavel Chukhraj",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1998,
+    "Película": "Secretos del corazón",
+    "Director": "Montxo Armendáriz",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1999,
+    "Película": "La vida es bella",
+    "Director": "Roberto Begnini",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 7,
+    "Premios": 3,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1999,
+    "Película": "Tango, no me dejes nunca",
+    "Director": "Carlos Saura",
+    "País": "Argentina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1999,
+    "Película": "Estación central de Brasil",
+    "Director": "Walter Salles",
+    "País": "Brasil",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1999,
+    "Película": "Niños del paraíso",
+    "Director": "Majid Majidi",
+    "País": "Irán",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 1999,
+    "Película": "El abuelo",
+    "Director": "José Luis Garci",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2000,
+    "Película": "Todo sobre mi madre",
+    "Director": "Pedro Almodóvar",
+    "País": "España",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2000,
+    "Película": "La vida prometida (Este-Oeste)",
+    "Director": "Régis Wargnier",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2000,
+    "Película": "Himalaya",
+    "Director": "Éric Valli",
+    "País": "Nepal",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2000,
+    "Película": "Bajo el sol",
+    "Director": "Colin Nutley",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2000,
+    "Película": "Solomon & Gaenor",
+    "Director": "Paul Morrison",
+    "País": "Reino Unido",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2001,
+    "Película": "Tigre y dragón",
+    "Director": "Ang Lee",
+    "País": "Taiwán",
+    "Situación": "Premiada",
+    "Nominaciones": 10,
+    "Premios": 4,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2001,
+    "Película": "¡Quiero ser famosa!",
+    "Director": "Dominique Deruddere",
+    "País": "Bélgica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2001,
+    "Película": "El amor en tiempos de odio",
+    "Director": "Jan Hrebejk",
+    "País": "Chequia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2001,
+    "Película": "Para todos los gustos",
+    "Director": "Agnès Jaoui",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2001,
+    "Película": "Amores perros",
+    "Director": "Alejandro González Iñárritu",
+    "País": "México",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2002,
+    "Película": "En tierra de nadie",
+    "Director": "Danis Tanović",
+    "País": "Bosnia y Herzegovina",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2002,
+    "Película": "El hijo de la novia",
+    "Director": "Juan José Campanella",
+    "País": "Argentina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2002,
+    "Película": "Amélie",
+    "Director": "Jean-Pierre Jeunet",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 5,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2002,
+    "Película": "Lagaan",
+    "Director": "Ashutosh Gowariker",
+    "País": "India",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2002,
+    "Película": "Elling",
+    "Director": "Peter Naess",
+    "País": "Noruega",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2003,
+    "Película": "En un lugar de África",
+    "Director": "Caroline Link",
+    "País": "Alemania",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2003,
+    "Película": "Hero",
+    "Director": "Zhang Yimou",
+    "País": "China",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2003,
+    "Película": "Un hombre sin pasado",
+    "Director": "Aki Kaurismäki",
+    "País": "Finlandia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2003,
+    "Película": "El crimen del padre Amaro",
+    "Director": "Carlos Carrera",
+    "País": "México",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2003,
+    "Película": "Zus & Zo",
+    "Director": "Paula van der Oest",
+    "País": "Países Bajos",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2004,
+    "Película": "Las invasiones bárbaras",
+    "Director": "Denys Arcand",
+    "País": "Canadá",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2004,
+    "Película": "Zelary",
+    "Director": "Ondřej Trojan",
+    "País": "Chequia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2004,
+    "Película": "El ocaso del samurái",
+    "Director": "Yoji Yamada",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2004,
+    "Película": "Gemelas",
+    "Director": "Ben Sombogaart",
+    "País": "Países Bajos",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2004,
+    "Película": "Solo contra sí mismo",
+    "Director": "Mikael Håfström",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2005,
+    "Película": "Mar adentro",
+    "Director": "Alejandro Amenábar",
+    "País": "España",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2005,
+    "Película": "Los chicos del coro",
+    "Director": "Christophe Barratier",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2005,
+    "Película": "El hundimiento",
+    "Director": "Oliver Hirschbiegel",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2005,
+    "Película": "Yesterday",
+    "Director": "Darryll Roodt",
+    "País": "Sudáfrica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2005,
+    "Película": "Tierra de ángeles",
+    "Director": "Kay Pollak",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2006,
+    "Película": "Tsotsi",
+    "Director": "Gavin Hood",
+    "País": "Sudáfrica",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2006,
+    "Película": "Feliz Navidad",
+    "Director": "Christian Carion",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2006,
+    "Película": "Paradise Now",
+    "Director": "Hany Abu-Assad",
+    "País": "Palestina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2006,
+    "Película": "Sophie Scholl - Los últimos días",
+    "Director": "Marc Rothemund",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2006,
+    "Película": "La bestia en el corazón",
+    "Director": "Cristina Comencini",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2007,
+    "Película": "La vida de los otros",
+    "Director": "Florian Henckel",
+    "País": "Alemania",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2007,
+    "Película": "Indinènes",
+    "Director": "Rachid Bouchareb",
+    "País": "Argelia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2007,
+    "Película": "Agua",
+    "Director": "Deepa Mehta",
+    "País": "Canadá",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2007,
+    "Película": "Después de la boda",
+    "Director": "Susanne Bier",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2007,
+    "Película": "El laberinto del fauno",
+    "Director": "Guillermo del Toro",
+    "País": "México",
+    "Situación": "Nominada",
+    "Nominaciones": 6,
+    "Premios": 3,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2008,
+    "Película": "Los falsificadores",
+    "Director": "Stefan Ruzowitzky",
+    "País": "Austria",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2008,
+    "Película": "Beaufort",
+    "Director": "Joseph Cedar",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2008,
+    "Película": "Mongol",
+    "Director": "Serguéi Bodrov",
+    "País": "Kazajistán",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2008,
+    "Película": "Katyn",
+    "Director": "Andrzej Wajda",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2008,
+    "Película": "12",
+    "Director": "Nikita Mijalkov",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2009,
+    "Película": "Despedidas",
+    "Director": "Yōjirō Takita",
+    "País": "Japón",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2009,
+    "Película": "Revanche",
+    "Director": "Götz Spielmann",
+    "País": "Austria",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2009,
+    "Película": "La clase",
+    "Director": "Laurent Cantet",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2009,
+    "Película": "R.A.F. Facción del Ejército Rojo",
+    "Director": "Uli Edel",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2009,
+    "Película": "Vals con Bashir",
+    "Director": "Ari Folman",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2010,
+    "Película": "El secreto de sus ojos",
+    "Director": "Juan José Campanella",
+    "País": "Argentina",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2010,
+    "Película": "Un profeta",
+    "Director": "Jacques Audiard",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2010,
+    "Película": "La cinta blanca",
+    "Director": "Michael Haneke",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2010,
+    "Película": "Ajami",
+    "Director": "Scandar Copti y Yaron Shani",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2010,
+    "Película": "La teta asustada",
+    "Director": "Claudia Llosa",
+    "País": "Perú",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2011,
+    "Película": "Hævnen ",
+    "Director": "Susanne Bier",
+    "País": "Dinamarca",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2011,
+    "Película": "Fuera de la ley",
+    "Director": "Rachid Bouchareb",
+    "País": "Argelia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2011,
+    "Película": "Incendies",
+    "Director": "Denis Villeneuve",
+    "País": "Canadá",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2011,
+    "Película": "Canino",
+    "Director": "Giorgos Lanthimos",
+    "País": "Grecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2011,
+    "Película": "Biutiful",
+    "Director": "Alejandro González Iñárritu",
+    "País": "México",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2012,
+    "Película": "Nader y Simin, una separación",
+    "Director": "Asghar Farhadi",
+    "País": "Irán",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2012,
+    "Película": "Bullhead",
+    "Director": "Michaël R Roskam",
+    "País": "Bélgica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2012,
+    "Película": "Profesor Lazhar",
+    "Director": "Philippe Falardeau",
+    "País": "Canadá",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2012,
+    "Película": "Hearat Shulayim",
+    "Director": "Joseph Cedar",
+    "País": "Israel",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2012,
+    "Película": "In Darkness",
+    "Director": "Agnieszka Holland",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2013,
+    "Película": "Amour",
+    "Director": "Michael Haneke",
+    "País": "Austria",
+    "Situación": "Premiada",
+    "Nominaciones": 5,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2013,
+    "Película": "Rebelle",
+    "Director": "Kim Nguyen",
+    "País": "Canadá",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2013,
+    "Película": "No",
+    "Director": "Pablo Larraín",
+    "País": "Chile",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2013,
+    "Película": "Un asunto real",
+    "Director": "Nikolaj Arcel",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2013,
+    "Película": "Kon-Tiki",
+    "Director": "Joachim Rønning y Espen Sandberg",
+    "País": "Noruega",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2014,
+    "Película": "La gran belleza",
+    "Director": "Paolo Sorrentino",
+    "País": "Italia",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2014,
+    "Película": "The Broken Circle Breakdown",
+    "Director": "Felix van Groeningen",
+    "País": "Bélgica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2014,
+    "Película": "The missing picture",
+    "Director": "Rithy Panh",
+    "País": "Camboya",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2014,
+    "Película": "Jagten",
+    "Director": "Thomas Vinterberg",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2014,
+    "Película": "Omar",
+    "Director": "Hany Abu-Assad",
+    "País": "Palestina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2015,
+    "Película": "Ida",
+    "Director": "Pawel Pawlikowski",
+    "País": "Polonia",
+    "Situación": "Premiada",
+    "Nominaciones": 2,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2015,
+    "Película": "Relatos salvajes",
+    "Director": "Damián Szifron",
+    "País": "Argentina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2015,
+    "Película": "Tangerines",
+    "Director": "Zaza Urushadze",
+    "País": "Estonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2015,
+    "Película": "Timbuktu",
+    "Director": "Abderrahmane Sissako",
+    "País": "Mauritania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2015,
+    "Película": "Leviathan",
+    "Director": "Andrey Zvyagintsev",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2016,
+    "Película": "El hijo de Saúl",
+    "Director": "László Nemes",
+    "País": "Hungría",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2016,
+    "Película": "El abrazo de la serpiente",
+    "Director": "Ciro Guerra",
+    "País": "Colombia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2016,
+    "Película": "La guerra",
+    "Director": "Tobias Lindholm",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2016,
+    "Película": "Mustang",
+    "Director": "Deniz Gamze Ergüven",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2016,
+    "Película": "Theeb",
+    "Director": "Naji Abu Nowar",
+    "País": "Jordania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2017,
+    "Película": "El cliente",
+    "Director": "Asghar Farhadi",
+    "País": "Irán",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2017,
+    "Película": "Tanna",
+    "Director": "Martin Butler y Bentley Dean",
+    "País": "Australia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2017,
+    "Película": "Under sandet",
+    "Director": "Martin Zandvliet",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2017,
+    "Película": "Toni Erdmann",
+    "Director": "Maren Ade",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2017,
+    "Película": "Un hombre llamado Ove",
+    "Director": "Hannes Holm",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2018,
+    "Película": "Una mujer fantástica",
+    "Director": "Sebastián Lelio",
+    "País": "Chile",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2018,
+    "Película": "En cuerpo y alma",
+    "Director": "Ildikó Enyedi",
+    "País": "Hungría",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2018,
+    "Película": "El insulto",
+    "Director": "Ziad Doueiri",
+    "País": "Líbano",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2018,
+    "Película": "Sin amor",
+    "Director": "Andrey Zvyagintsev",
+    "País": "Rusia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2018,
+    "Película": "The Square",
+    "Director": "Ruben Östlund",
+    "País": "Suecia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2019,
+    "Película": "Roma",
+    "Director": "Alfonso Cuarón",
+    "País": "México",
+    "Situación": "Premiada",
+    "Nominaciones": 10,
+    "Premios": 3,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2019,
+    "Película": "Never Look Away",
+    "Director": "Florian Henckel von Donnersmarck",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2019,
+    "Película": "Manbiki Kazoku",
+    "Director": "Hirokazu Koreeda",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2019,
+    "Película": "Cafarnaúm",
+    "Director": "Nadine Labaki",
+    "País": "Líbano",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2019,
+    "Película": "Cold War",
+    "Director": "Paweł Pawlikowski",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 3,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2020,
+    "Película": "Parásitos (Gisaengchung)",
+    "Director": "Bong Joon-ho",
+    "País": "Corea del sur",
+    "Situación": "Premiada",
+    "Nominaciones": 6,
+    "Premios": 4,
+    "Comentarios": "1ª pel. int. que gana Mejor Película"
+  },
+  {
+    "Año": 2020,
+    "Película": "Les misérables",
+    "Director": "Ladj Ly",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2020,
+    "Película": "Boże Ciało",
+    "Director": "Jan Komasa",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2020,
+    "Película": "Dolor y gloria",
+    "Director": "Pedro Almodóvar",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2020,
+    "Película": "Honeyland",
+    "Director": "Tamara Kotevska y Ljubomir Stefanov",
+    "País": "Macedonia del Norte",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2021,
+    "Película": "Otra ronda",
+    "Director": "Thomas Vinterberg",
+    "País": "Dinamarca",
+    "Situación": "Premiada",
+    "Nominaciones": 1,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2021,
+    "Película": "Quo Vadis, Aida?",
+    "Director": "Jasmila Žbanić",
+    "País": "Bosnia y Herzegovina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2021,
+    "Película": "Better Days",
+    "Director": "Derek Tsang",
+    "País": "China",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": "Hong Kong"
+  },
+  {
+    "Año": 2021,
+    "Película": "Collective",
+    "Director": "Alexander Nanau",
+    "País": "Rumania",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2021,
+    "Película": "El hombre que vendió su piel",
+    "Director": "Kaouther Ben Hania",
+    "País": "Túnez",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2022,
+    "Película": "Drive My Car",
+    "Director": "Ryūsuke Hamaguchi",
+    "País": "Japón",
+    "Situación": "Premiada",
+    "Nominaciones": 4,
+    "Premios": 1,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2022,
+    "Película": "Lunana: A Yak in the Classroom",
+    "Director": "Pawo Choyning Dorji",
+    "País": "Bután",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2022,
+    "Película": "Flee",
+    "Director": "Jonas Poher Rasmussen",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 3,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2022,
+    "Película": "Fue la mano de Dios",
+    "Director": "Paolo Sorrentino",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2022,
+    "Película": "La peor persona del mundo",
+    "Director": "Joachim Trier",
+    "País": "Noruega",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2023,
+    "Película": "Sin novedad en el frente",
+    "Director": "Edward Berger",
+    "País": "Alemania",
+    "Situación": "Premiada",
+    "Nominaciones": 9,
+    "Premios": 4,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2023,
+    "Película": "Argentina, 1985",
+    "Director": "Santiago Mitre",
+    "País": "Argentina",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2023,
+    "Película": "Close",
+    "Director": "Lukas Dhont",
+    "País": "Bélgica",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2023,
+    "Película": "The Quiet Girl",
+    "Director": "Colm Bairéad",
+    "País": "Irlanda",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2023,
+    "Película": "EO",
+    "Director": "Jerzy Skolimowski",
+    "País": "Polonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2024,
+    "Película": "Zona de interés",
+    "Director": "Jonathan Glazer",
+    "País": "Reino Unido",
+    "Situación": "Premiada",
+    "Nominaciones": 5,
+    "Premios": 2,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2024,
+    "Película": "Sala de profesores",
+    "Director": "İlker Çatak",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2024,
+    "Película": "Yo capitán",
+    "Director": "Matteo Garrone",
+    "País": "Italia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2024,
+    "Película": "Perfect Days",
+    "Director": "Wim Wenders",
+    "País": "Japón",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2024,
+    "Película": "La sociedad de la nieve",
+    "Director": "J A Bayona",
+    "País": "España",
+    "Situación": "Nominada",
+    "Nominaciones": 2,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2025,
+    "Película": "Aún estoy aquí",
+    "Director": "Walter Salles",
+    "País": "Brasil",
+    "Situación": "Nominada",
+    "Nominaciones": 3,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2025,
+    "Película": "La chica de la aguja",
+    "Director": "Magnus von Horn",
+    "País": "Dinamarca",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2025,
+    "Película": "Emilia Pérez",
+    "Director": "Jacques Audiard",
+    "País": "Francia",
+    "Situación": "Nominada",
+    "Nominaciones": 13,
+    "Premios": 0,
+    "Comentarios": "Película de habla no inglesa con más nominaciones"
+  },
+  {
+    "Año": 2025,
+    "Película": "La semilla de la higuera sagrada",
+    "Director": "Mohammad Rasoulof",
+    "País": "Alemania",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  },
+  {
+    "Año": 2025,
+    "Película": "Flow",
+    "Director": "Gints Zilbalodis",
+    "País": "Letonia",
+    "Situación": "Nominada",
+    "Nominaciones": 1,
+    "Premios": 0,
+    "Comentarios": ""
+  }
+]

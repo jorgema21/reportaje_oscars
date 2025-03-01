@@ -1,0 +1,962 @@
+[
+  {
+    "Década": 1920,
+    "Terminación": 9,
+    "Año": 1929,
+    "Título": "Alas",
+    "Director(es)": "William A. Wellman",
+    "Género(s)": "Bélico / Cine mudo",
+    "Premios": 2,
+    "Nominaciones": 2
+  },
+  {
+    "Década": 1930,
+    "Terminación": 0,
+    "Año": 1930,
+    "Título": "La melodía de Broadway",
+    "Director(es)": "Harry Beaumont",
+    "Género(s)": "Musical",
+    "Premios": 1,
+    "Nominaciones": 3
+  },
+  {
+    "Década": 1930,
+    "Terminación": 1,
+    "Año": 1931,
+    "Título": "Sin novedad en el frente",
+    "Director(es)": "Lewis Milestone",
+    "Género(s)": "Bélico",
+    "Premios": 2,
+    "Nominaciones": 4
+  },
+  {
+    "Década": 1930,
+    "Terminación": 2,
+    "Año": 1932,
+    "Título": "Cimarrón",
+    "Director(es)": "Wesley Ruggles",
+    "Género(s)": "Western",
+    "Premios": 3,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1930,
+    "Terminación": 3,
+    "Año": 1933,
+    "Título": "Grand Hotel",
+    "Director(es)": "Edmund Goulding",
+    "Género(s)": "Drama",
+    "Premios": 1,
+    "Nominaciones": 1
+  },
+  {
+    "Década": 1930,
+    "Terminación": 4,
+    "Año": 1934,
+    "Título": "Cabalgata",
+    "Director(es)": "Frank Lloyd",
+    "Género(s)": "Drama histórico",
+    "Premios": 3,
+    "Nominaciones": 4
+  },
+  {
+    "Década": 1930,
+    "Terminación": 5,
+    "Año": 1935,
+    "Título": "Sucedió una noche",
+    "Director(es)": "Frank Capra",
+    "Género(s)": "Comedia",
+    "Premios": 5,
+    "Nominaciones": 5
+  },
+  {
+    "Década": 1930,
+    "Terminación": 6,
+    "Año": 1936,
+    "Título": "La tragedia de la Bounty",
+    "Director(es)": "Frank Lloyd",
+    "Género(s)": "Drama histórico / Aventura",
+    "Premios": 1,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1930,
+    "Terminación": 7,
+    "Año": 1937,
+    "Título": "El gran Ziegfeld",
+    "Director(es)": "Robert Z. Leonard",
+    "Género(s)": "Musical",
+    "Premios": 3,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1930,
+    "Terminación": 8,
+    "Año": 1938,
+    "Título": "La vida de Émile Zola",
+    "Director(es)": "William Dieterle",
+    "Género(s)": "Biográfico",
+    "Premios": 3,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1930,
+    "Terminación": 9,
+    "Año": 1939,
+    "Título": "Vive como quieras",
+    "Director(es)": "Frank Capra",
+    "Género(s)": "Comedia romántica",
+    "Premios": 2,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1940,
+    "Terminación": 0,
+    "Año": 1940,
+    "Título": "Lo que el viento se llevó",
+    "Director(es)": "Victor Fleming",
+    "Género(s)": "Drama / Romance",
+    "Premios": 10,
+    "Nominaciones": 13
+  },
+  {
+    "Década": 1940,
+    "Terminación": 1,
+    "Año": 1941,
+    "Título": "Rebeca",
+    "Director(es)": "Alfred Hitchcock",
+    "Género(s)": "Suspense",
+    "Premios": 2,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1940,
+    "Terminación": 2,
+    "Año": 1942,
+    "Título": "¡Qué verde era mi valle!",
+    "Director(es)": "John Ford",
+    "Género(s)": "Drama",
+    "Premios": 5,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1940,
+    "Terminación": 3,
+    "Año": 1943,
+    "Título": "La señora Miniver",
+    "Director(es)": "William Wyler",
+    "Género(s)": "Drama",
+    "Premios": 6,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 1940,
+    "Terminación": 4,
+    "Año": 1944,
+    "Título": "Casablanca",
+    "Director(es)": "Michael Curtiz",
+    "Género(s)": "Drama / Romance",
+    "Premios": 3,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1940,
+    "Terminación": 5,
+    "Año": 1945,
+    "Título": "Siguiendo mi camino",
+    "Director(es)": "Leo McCarey",
+    "Género(s)": "Drama",
+    "Premios": 7,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1940,
+    "Terminación": 6,
+    "Año": 1946,
+    "Título": "Días sin huella",
+    "Director(es)": "Billy Wilder",
+    "Género(s)": "Drama",
+    "Premios": 4,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1940,
+    "Terminación": 7,
+    "Año": 1947,
+    "Título": "Los mejores años de nuestra vida",
+    "Director(es)": "William Wyler",
+    "Género(s)": "Drama",
+    "Premios": 8,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 1940,
+    "Terminación": 8,
+    "Año": 1948,
+    "Título": "La barrera invisible",
+    "Director(es)": "Elia Kazan",
+    "Género(s)": "Drama",
+    "Premios": 3,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1940,
+    "Terminación": 9,
+    "Año": 1949,
+    "Título": "Hamlet",
+    "Director(es)": "Laurence Olivier",
+    "Género(s)": "Drama",
+    "Premios": 4,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1950,
+    "Terminación": 0,
+    "Año": 1950,
+    "Título": "El político",
+    "Director(es)": "Robert Rossen",
+    "Género(s)": "Drama",
+    "Premios": 3,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1950,
+    "Terminación": 1,
+    "Año": 1951,
+    "Título": "Eva al desnudo",
+    "Director(es)": "Joseph L. Mankiewicz",
+    "Género(s)": "Drama",
+    "Premios": 6,
+    "Nominaciones": 14
+  },
+  {
+    "Década": 1950,
+    "Terminación":2,
+    "Año": 1952,
+    "Título": "Un americano en París",
+    "Director(es)": "Vincente Minnelli",
+    "Género(s)": "Musical",
+    "Premios": 6,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1950,
+    "Terminación": 3,
+    "Año": 1953,
+    "Título": "El mayor espectáculo del mundo",
+    "Director(es)": "Cecil B. De Mille",
+    "Género(s)": "Drama",
+    "Premios": 2,
+    "Nominaciones": 5
+  },
+  {
+    "Década": 1950,
+    "Terminación": 4,
+    "Año": 1954,
+    "Título": "De aquí a la eternidad",
+    "Director(es)": "Fred Zinnemann",
+    "Género(s)": "Drama / Bélico",
+    "Premios": 8,
+    "Nominaciones": 13
+  },
+  {
+    "Década": 1950,
+    "Terminación": 5,
+    "Año": 1955,
+    "Título": "La ley del silencio",
+    "Director(es)": "Elia Kazan",
+    "Género(s)": "Drama",
+    "Premios": 8,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 1950,
+    "Terminación": 6,
+    "Año": 1956,
+    "Título": "Marty",
+    "Director(es)": "Delbert Mann",
+    "Género(s)": "Drama",
+    "Premios": 4,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1950,
+    "Terminación": 7,
+    "Año": 1957,
+    "Título": "La vuelta al mundo en ochenta días",
+    "Director(es)": "Michael Anderson",
+    "Género(s)": "Aventura",
+    "Premios": 5,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1950,
+    "Terminación": 8,
+    "Año": 1958,
+    "Título": "El puente sobre el río Kwai",
+    "Director(es)": "David Lean",
+    "Género(s)": "Bélico",
+    "Premios": 7,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1950,
+    "Terminación": 9,
+    "Año": 1959,
+    "Título": "Gigi",
+    "Director(es)": "Vincente Minnelli",
+    "Género(s)": "Musical",
+    "Premios": 9,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 1960,
+    "Terminación": 0,
+    "Año": 1960,
+    "Título": "Ben-Hur",
+    "Director(es)": "William Wyler",
+    "Género(s)": "Acción / Aventura",
+    "Premios": 11,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 1960,
+    "Terminación": 1,
+    "Año": 1961,
+    "Título": "El apartamento",
+    "Director(es)": "Billy Wilder",
+    "Género(s)": "Comedia dramática",
+    "Premios": 5,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1960,
+    "Terminación": 2,
+    "Año": 1962,
+    "Título": "West Side Story (Amor sin barreras)",
+    "Director(es)": "Robert Wise y Jerome Robbins",
+    "Género(s)": "Musical",
+    "Premios": 10,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1960,
+    "Terminación": 3,
+    "Año": 1963,
+    "Título": "Lawrence de Arabia",
+    "Director(es)": "David Lean",
+    "Género(s)": "Drama histórico",
+    "Premios": 7,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1960,
+    "Terminación": 4,
+    "Año": 1964,
+    "Título": "Tom Jones",
+    "Director(es)": "Tony Richardson",
+    "Género(s)": "Aventura / Comedia",
+    "Premios": 4,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1960,
+    "Terminación": 5,
+    "Año": 1965,
+    "Título": "My Fair Lady (Mi bella dama)",
+    "Director(es)": "George Cukor",
+    "Género(s)": "Musical",
+    "Premios": 8,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 1960,
+    "Terminación": 6,
+    "Año": 1966,
+    "Título": "Sonrisas y lágrimas",
+    "Director(es)": "Robert Wise",
+    "Género(s)": "Musical",
+    "Premios": 5,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1960,
+    "Terminación": 7,
+    "Año": 1967,
+    "Título": "Un hombre para la eternidad",
+    "Director(es)": "Fred Zinnemann",
+    "Género(s)": "Biográfico",
+    "Premios": 6,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1960,
+    "Terminación": 8,
+    "Año": 1968,
+    "Título": "En el calor de la noche",
+    "Director(es)": "Norman Jewison",
+    "Género(s)": "Drama policial / Misterio",
+    "Premios": 5,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1960,
+    "Terminación": 9,
+    "Año": 1969,
+    "Título": "Oliver",
+    "Director(es)": "Carol Reed",
+    "Género(s)": "Musical",
+    "Premios": 5,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1970,
+    "Terminación": 0,
+    "Año": 1970,
+    "Título": "Cowboy de medianoche",
+    "Director(es)": "John Schlesinger",
+    "Género(s)": "Drama",
+    "Premios": 3,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1970,
+    "Terminación": 1,
+    "Año": 1971,
+    "Título": "Patton",
+    "Director(es)": "Franklin J. Schaffner",
+    "Género(s)": "Biográfico",
+    "Premios": 7,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1970,
+    "Terminación": 2,
+    "Año": 1972,
+    "Título": "French Connection. Contra el imperio de la droga",
+    "Director(es)": "William Friedkin",
+    "Género(s)": "Drama policial",
+    "Premios": 5,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1970,
+    "Terminación": 3,
+    "Año": 1973,
+    "Título": "El padrino",
+    "Director(es)": "Francis Ford Coppola",
+    "Género(s)": "Drama / Crimen",
+    "Premios": 3,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1970,
+    "Terminación": 4,
+    "Año": 1974,
+    "Título": "El golpe",
+    "Director(es)": "George Roy Hill",
+    "Género(s)": "Comedia",
+    "Premios": 7,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1970,
+    "Terminación": 5,
+    "Año": 1975,
+    "Título": "El Padrino. Parte II",
+    "Director(es)": "Francis Ford Coppola",
+    "Género(s)": "Drama / Crimen",
+    "Premios": 6,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1970,
+    "Terminación": 6,
+    "Año": 1976,
+    "Título": "Alguien voló sobre el nido del cuco",
+    "Director(es)": "Miloš Forman",
+    "Género(s)": "Drama",
+    "Premios": 5,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 1970,
+    "Terminación": 7,
+    "Año": 1977,
+    "Título": "Rocky",
+    "Director(es)": "John G. Avildsen",
+    "Género(s)": "Drama / Deportes",
+    "Premios": 3,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1970,
+    "Terminación": 8,
+    "Año": 1978,
+    "Título": "Annie Hall",
+    "Director(es)": "Woody Allen",
+    "Género(s)": "Comedia romántica",
+    "Premios": 4,
+    "Nominaciones": 5
+  },
+  {
+    "Década": 1970,
+    "Terminación": 9,
+    "Año": 1979,
+    "Título": "El cazador",
+    "Director(es)": "Michael Cimino",
+    "Género(s)": "Drama / Bélico",
+    "Premios": 5,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 1980,
+    "Terminación": 0,
+    "Año": 1980,
+    "Título": "Kramer contra Kramer",
+    "Director(es)": "Robert Benton",
+    "Género(s)": "Drama",
+    "Premios": 5,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 1980,
+    "Terminación": 1,
+    "Año": 1981,
+    "Título": "Gente corriente",
+    "Director(es)": "Robert Redford",
+    "Género(s)": "Drama",
+    "Premios": 4,
+    "Nominaciones": 6
+  },
+  {
+    "Década": 1980,
+    "Terminación": 2,
+    "Año": 1982,
+    "Título": "Carros de fuego",
+    "Director(es)": "Hugh Hudson",
+    "Género(s)": "Drama histórico / Deportes",
+    "Premios": 4,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1980,
+    "Terminación": 3,
+    "Año": 1983,
+    "Título": "Gandhi",
+    "Director(es)": "Richard Attenborough",
+    "Género(s)": "Biográfico",
+    "Premios": 8,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1980,
+    "Terminación": 4,
+    "Año": 1984,
+    "Título": "La fuerza del cariño",
+    "Director(es)": "James L. Brooks",
+    "Género(s)": "Drama",
+    "Premios": 5,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1980,
+    "Terminación": 5,
+    "Año": 1985,
+    "Título": "Amadeus",
+    "Director(es)": "Miloš Forman",
+    "Género(s)": "Biográfico / Drama histórico",
+    "Premios": 8,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1980,
+    "Terminación": 6,
+    "Año": 1986,
+    "Título": "Memorias de África",
+    "Director(es)": "Sydney Pollack",
+    "Género(s)": "Biografía / Drama / Romance",
+    "Premios": 7,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 1980,
+    "Terminación": 7,
+    "Año": 1987,
+    "Título": "Platoon",
+    "Director(es)": "Oliver Stone",
+    "Género(s)": "Drama / Bélico",
+    "Premios": 4,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1980,
+    "Terminación": 8,
+    "Año": 1988,
+    "Título": "El último emperador",
+    "Director(es)": "Bernardo Bertolucci",
+    "Género(s)": "Biográfico",
+    "Premios": 9,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 1980,
+    "Terminación": 9,
+    "Año": 1989,
+    "Título": "Rain Man",
+    "Director(es)": "Barry Levinson",
+    "Género(s)": "Drama",
+    "Premios": 4,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 1990,
+    "Terminación": 0,
+    "Año": 1990,
+    "Título": "Paseando a Miss Daisy",
+    "Director(es)": "Bruce Beresford",
+    "Género(s)": "Comedia dramática",
+    "Premios": 4,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 1990,
+    "Terminación": 1,
+    "Año": 1991,
+    "Título": "Bailando con lobos",
+    "Director(es)": "Kevin Costner",
+    "Género(s)": "Drama / Western",
+    "Premios": 7,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 1990,
+    "Terminación": 2,
+    "Año": 1992,
+    "Título": "El silencio de los corderos",
+    "Director(es)": "Jonathan Demme",
+    "Género(s)": "Terror / Suspense",
+    "Premios": 5,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 1990,
+    "Terminación": 3,
+    "Año": 1993,
+    "Título": "Sin perdón",
+    "Director(es)": "Clint Eastwood",
+    "Género(s)": "Western",
+    "Premios": 4,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 1990,
+    "Terminación": 4,
+    "Año": 1994,
+    "Título": "La lista de Schindler",
+    "Director(es)": "Steven Spielberg",
+    "Género(s)": "Biografía / Drama histórico",
+    "Premios": 7,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 1990,
+    "Terminación": 5,
+    "Año": 1995,
+    "Título": "Forrest Gump",
+    "Director(es)": "Robert Zemeckis",
+    "Género(s)": "Drama",
+    "Premios": 6,
+    "Nominaciones": 13
+  },
+  {
+    "Década": 1990,
+    "Terminación": 6,
+    "Año": 1996,
+    "Título": "Braveheart",
+    "Director(es)": "Mel Gibson",
+    "Género(s)": "Drama histórico",
+    "Premios": 5,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 1990,
+    "Terminación": 7,
+    "Año": 1997,
+    "Título": "El paciente inglés",
+    "Director(es)": "Anthony Minghella",
+    "Género(s)": "Drama / Romance",
+    "Premios": 9,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 1990,
+    "Terminación": 8,
+    "Año": 1998,
+    "Título": "Titanic",
+    "Director(es)": "James Cameron",
+    "Género(s)": "Drama / Romance / Cine catástrofe",
+    "Premios": 11,
+    "Nominaciones": 14
+  },
+  {
+    "Década": 1990,
+    "Terminación": 9,
+    "Año": 1999,
+    "Título": "Shakespeare enamorado",
+    "Director(es)": "John Madden",
+    "Género(s)": "Comedia romántica",
+    "Premios": 7,
+    "Nominaciones": 13
+  },
+  {
+    "Década": 2000,
+    "Terminación": 0,
+    "Año": 2000,
+    "Título": "American Beauty",
+    "Director(es)": "Sam Mendes",
+    "Género(s)": "Drama",
+    "Premios": 5,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 2000,
+    "Terminación": 1,
+    "Año": 2001,
+    "Título": "Gladiator",
+    "Director(es)": "Ridley Scott",
+    "Género(s)": "Acción / Aventura / Drama",
+    "Premios": 5,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 2000,
+    "Terminación": 2,
+    "Año": 2002,
+    "Título": "Una mente maravillosa",
+    "Director(es)": "Ron Howard",
+    "Género(s)": "Biografía / Drama",
+    "Premios": 4,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 2000,
+    "Terminación": 3,
+    "Año": 2003,
+    "Título": "Chicago",
+    "Director(es)": "Rob Marshall",
+    "Género(s)": "Musical",
+    "Premios": 6,
+    "Nominaciones": 13
+  },
+  {
+    "Década": 2000,
+    "Terminación": 4,
+    "Año": 2004,
+    "Título": "El Señor de los Anillos: el retorno del Rey",
+    "Director(es)": "Peter Jackson",
+    "Género(s)": "Aventura / Fantasía",
+    "Premios": 11,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 2000,
+    "Terminación": 5,
+    "Año": 2005,
+    "Título": "Million Dollar Baby",
+    "Director(es)": "Clint Eastwood",
+    "Género(s)": "Drama / Deportes",
+    "Premios": 4,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 2000,
+    "Terminación": 6,
+    "Año": 2006,
+    "Título": "Crash (Colisión)",
+    "Director(es)": "Paul Haggis",
+    "Género(s)": "Drama",
+    "Premios": 3,
+    "Nominaciones": 6
+  },
+  {
+    "Década": 2000,
+    "Terminación": 7,
+    "Año": 2007,
+    "Título": "Infiltrados",
+    "Director(es)": "Martin Scorsese",
+    "Género(s)": "Acción / Suspense",
+    "Premios": 4,
+    "Nominaciones": 5
+  },
+  {
+    "Década": 2000,
+    "Terminación": 8,
+    "Año": 2008,
+    "Título": "No es país para viejos",
+    "Director(es)": "Ethan y Joel Coen",
+    "Género(s)": "Drama / Suspense",
+    "Premios": 4,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 2000,
+    "Terminación": 9,
+    "Año": 2009,
+    "Título": "Slumdog Millionaire",
+    "Director(es)": "Danny Boyle",
+    "Género(s)": "Drama / Romance",
+    "Premios": 8,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 2010,
+    "Terminación": 0,
+    "Año": 2010,
+    "Título": "En tierra hostil",
+    "Director(es)": "Kathryn Bigelow",
+    "Género(s)": "Acción / Suspense",
+    "Premios": 6,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 2010,
+    "Terminación": 1,
+    "Año": 2011,
+    "Título": "El discurso del rey",
+    "Director(es)": "Tom Hooper",
+    "Género(s)": "Drama histórico",
+    "Premios": 4,
+    "Nominaciones": 12
+  },
+  {
+    "Década": 2010,
+    "Terminación": 2,
+    "Año": 2012,
+    "Título": "El artista",
+    "Director(es)": "Michel Hazanavicius",
+    "Género(s)": "Comedia romántica / Cine mudo",
+    "Premios": 5,
+    "Nominaciones": 10
+  },
+  {
+    "Década": 2010,
+    "Terminación": 3,
+    "Año": 2013,
+    "Título": "Argo",
+    "Director(es)": "Ben Affleck",
+    "Género(s)": "Drama / Suspense",
+    "Premios": 3,
+    "Nominaciones": 7
+  },
+  {
+    "Década": 2010,
+    "Terminación": 4,
+    "Año": 2014,
+    "Título": "12 años de esclavitud",
+    "Director(es)": "Steve McQueen",
+    "Género(s)": "Biografía / Drama",
+    "Premios": 3,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 2010,
+    "Terminación": 5,
+    "Año": 2015,
+    "Título": "Birdman o (La inesperada virtud de la ignorancia)",
+    "Director(es)": "Alejandro González Iñárritu",
+    "Género(s)": "Comedia dramática",
+    "Premios": 4,
+    "Nominaciones": 9
+  },
+  {
+    "Década": 2010,
+    "Terminación": 6,
+    "Año": 2016,
+    "Título": "Spotlight",
+    "Director(es)": "Tom McCarthy",
+    "Género(s)": "Biografía / Drama",
+    "Premios": 2,
+    "Nominaciones": 6
+  },
+  {
+    "Década": 2010,
+    "Terminación": 7,
+    "Año": 2017,
+    "Título": "Moonlight",
+    "Director(es)": "Barry Jenkins",
+    "Género(s)": "Coming-of-age / Drama",
+    "Premios": 3,
+    "Nominaciones": 8
+  },
+  {
+    "Década": 2010,
+    "Terminación": 8,
+    "Año": 2018,
+    "Título": "La forma del agua",
+    "Director(es)": "Guillermo del Toro",
+    "Género(s)": "Fantasía / Romance",
+    "Premios": 4,
+    "Nominaciones": 13
+  },
+  {
+    "Década": 2010,
+    "Terminación": 9,
+    "Año": 2019,
+    "Título": "Green Book",
+    "Director(es)": "Peter Farrelly",
+    "Género(s)": "Biografía / Comedia dramática / Road movie",
+    "Premios": 3,
+    "Nominaciones": 5
+  },
+  {
+    "Década": 2020,
+    "Terminación": 0,
+    "Año": 2020,
+    "Título": "Parásitos",
+    "Director(es)": "Bong Joon-ho",
+    "Género(s)": "Drama / Suspenso / Humor negro",
+    "Premios": 4,
+    "Nominaciones": 6
+  },
+  {
+    "Década": 2020,
+    "Terminación": 1,
+    "Año": 2021,
+    "Título": "Nomadland",
+    "Director(es)": "Chloé Zhao",
+    "Género(s)": "Drama",
+    "Premios": 3,
+    "Nominaciones": 6
+  },
+  {
+    "Década": 2020,
+    "Terminación": 2,
+    "Año": 2022,
+    "Título": "CODACODA: Los sonidos del silencio",
+    "Director(es)": "Sian Heder",
+    "Género(s)": "Comedia dramática / Coming-of-age",
+    "Premios": 3,
+    "Nominaciones": 3
+  },
+  {
+    "Década": 2020,
+    "Terminación": 3,
+    "Año": 2023,
+    "Título": "Todo a la vez en todas partes",
+    "Director(es)": "Daniel Kwan y Daniel Scheinert",
+    "Género(s)": "Acción / Comedia dramática / Ciencia ficción",
+    "Premios": 7,
+    "Nominaciones": 11
+  },
+  {
+    "Década": 2020,
+    "Terminación": 4,
+    "Año": 2024,
+    "Título": "Oppenheimer",
+    "Director(es)": "Christopher Nolan",
+    "Género(s)": "Biografía / Suspense",
+    "Premios": 7,
+    "Nominaciones": 13
+  }
+]

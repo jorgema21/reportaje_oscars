@@ -1,0 +1,490 @@
+[
+  {
+    "País": "Alemania",
+    "ISON": "276",
+    "nominaciones": 38,
+    "premios": 5,
+    "Premiada": 4,
+    "Nominada": 23
+  },
+  {
+    "País": "Argelia",
+    "ISON": "012",
+    "nominaciones": 8,
+    "premios": 1,
+    "Premiada": 1,
+    "Nominada": 5
+  },
+  {
+    "País": "Argentina",
+    "ISON": "032",
+    "nominaciones": 11,
+    "premios": 2,
+    "Premiada": 2,
+    "Nominada": 8
+  },
+  {
+    "País": "Australia",
+    "ISON": "036",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Austria",
+    "ISON": "040",
+    "nominaciones": 10,
+    "premios": 2,
+    "Premiada": 2,
+    "Nominada": 4
+  },
+  {
+    "País": "Bosnia y Herzegovina",
+    "ISON": "070",
+    "nominaciones": 3,
+    "premios": 1,
+    "Premiada": 1,
+    "Nominada": 2
+  },
+  {
+    "País": "Brasil",
+    "ISON": "076",
+    "nominaciones": 8,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 5
+  },
+  {
+    "País": "Bután",
+    "ISON": "064",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Bélgica",
+    "ISON": "056",
+    "nominaciones": 8,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 8
+  },
+  {
+    "País": "Camboya",
+    "ISON": "116",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Canadá",
+    "ISON": "124",
+    "nominaciones": 9,
+    "premios": 1,
+    "Premiada": 1,
+    "Nominada": 7
+  },
+  {
+    "País": "Chequia",
+    "ISON": "203",
+    "nominaciones": 10,
+    "premios": 2,
+    "Premiada": 2,
+    "Nominada": 8
+  },
+  {
+    "País": "Chile",
+    "ISON": "152",
+    "nominaciones": 3,
+    "premios": 1,
+    "Premiada": 1,
+    "Nominada": 2
+  },
+  {
+    "País": "China",
+    "ISON": "156",
+    "nominaciones": 6,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 5
+  },
+  {
+    "País": "Colombia",
+    "ISON": "170",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Corea del sur",
+    "ISON": "410",
+    "nominaciones": 10,
+    "premios": 4,
+    "Premiada": 1,
+    "Nominada": 1
+  },
+  {
+    "País": "Costa de Marfil",
+    "ISON": "384",
+    "nominaciones": 2,
+    "premios": 1,
+    "Premiada": 1,
+    "Nominada": 1
+  },
+  {
+    "País": "Croacia",
+    "ISON": "191",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Cuba",
+    "ISON": "192",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Dinamarca",
+    "ISON": "208",
+    "nominaciones": 22,
+    "premios": 4,
+    "Premiada": 4,
+    "Nominada": 15
+  },
+  {
+    "País": "Eslovaquia",
+    "ISON": "703",
+    "nominaciones": 2,
+    "premios": 1,
+    "Premiada": 1,
+    "Nominada": 1
+  },
+  {
+    "País": "España",
+    "ISON": "724",
+    "nominaciones": 29,
+    "premios": 4,
+    "Premiada": 4,
+    "Nominada": 21
+  },
+  {
+    "País": "Estonia",
+    "ISON": "233",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Finlandia",
+    "ISON": "246",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Francia",
+    "ISON": "250",
+    "nominaciones": 86,
+    "premios": 14,
+    "Premiada": 12,
+    "Nominada": 42
+  },
+  {
+    "País": "Georgia",
+    "ISON": "268",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Grecia",
+    "ISON": "300",
+    "nominaciones": 5,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 5
+  },
+  {
+    "País": "Hungría",
+    "ISON": "348",
+    "nominaciones": 12,
+    "premios": 2,
+    "Premiada": 2,
+    "Nominada": 10
+  },
+  {
+    "País": "India",
+    "ISON": "356",
+    "nominaciones": 3,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 3
+  },
+  {
+    "País": "Irlanda",
+    "ISON": "372",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Irán",
+    "ISON": "364",
+    "nominaciones": 5,
+    "premios": 1,
+    "Premiada": 2,
+    "Nominada": 3
+  },
+  {
+    "País": "Islandia",
+    "ISON": "352",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Israel",
+    "ISON": "376",
+    "nominaciones": 10,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 10
+  },
+  {
+    "País": "Italia",
+    "ISON": "380",
+    "nominaciones": 60,
+    "premios": 12,
+    "Premiada": 13,
+    "Nominada": 32
+  },
+  {
+    "País": "Japón",
+    "ISON": "392",
+    "nominaciones": 29,
+    "premios": 6,
+    "Premiada": 5,
+    "Nominada": 18
+  },
+  {
+    "País": "Jordania",
+    "ISON": "400",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Kazajistán",
+    "ISON": "398",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Letonia",
+    "ISON": "428",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Líbano",
+    "ISON": "422",
+    "nominaciones": 2,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 2
+  },
+  {
+    "País": "Macedonia del Norte",
+    "ISON": "807",
+    "nominaciones": 3,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 2
+  },
+  {
+    "País": "Mauritania",
+    "ISON": "478",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "México",
+    "ISON": "484",
+    "nominaciones": 30,
+    "premios": 6,
+    "Premiada": 1,
+    "Nominada": 9
+  },
+  {
+    "País": "Nepal",
+    "ISON": "524",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Nicaragua",
+    "ISON": "558",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Noruega",
+    "ISON": "578",
+    "nominaciones": 7,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 6
+  },
+  {
+    "País": "Palestina",
+    "ISON": "275",
+    "nominaciones": 2,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 2
+  },
+  {
+    "País": "Países Bajos",
+    "ISON": "528",
+    "nominaciones": 10,
+    "premios": 3,
+    "Premiada": 3,
+    "Nominada": 7
+  },
+  {
+    "País": "Perú",
+    "ISON": "604",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Polonia",
+    "ISON": "616",
+    "nominaciones": 17,
+    "premios": 1,
+    "Premiada": 1,
+    "Nominada": 13
+  },
+  {
+    "País": "Puerto Rico",
+    "ISON": "630",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Reino Unido",
+    "ISON": "826",
+    "nominaciones": 9,
+    "premios": 2,
+    "Premiada": 1,
+    "Nominada": 3
+  },
+  {
+    "País": "Rumania",
+    "ISON": "642",
+    "nominaciones": 2,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Rusia",
+    "ISON": "643",
+    "nominaciones": 21,
+    "premios": 4,
+    "Premiada": 4,
+    "Nominada": 15
+  },
+  {
+    "País": "Serbia",
+    "ISON": "688",
+    "nominaciones": 5,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 5
+  },
+  {
+    "País": "Sudáfrica",
+    "ISON": "710",
+    "nominaciones": 3,
+    "premios": 1,
+    "Premiada": 1,
+    "Nominada": 2
+  },
+  {
+    "País": "Suecia",
+    "ISON": "752",
+    "nominaciones": 29,
+    "premios": 6,
+    "Premiada": 3,
+    "Nominada": 16
+  },
+  {
+    "País": "Suiza",
+    "ISON": "756",
+    "nominaciones": 7,
+    "premios": 2,
+    "Premiada": 2,
+    "Nominada": 5
+  },
+  {
+    "País": "Taiwán",
+    "ISON": "158",
+    "nominaciones": 16,
+    "premios": 4,
+    "Premiada": 1,
+    "Nominada": 3
+  },
+  {
+    "País": "Túnez",
+    "ISON": "788",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Ucrania",
+    "ISON": "804",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  },
+  {
+    "País": "Vietnam",
+    "ISON": "704",
+    "nominaciones": 1,
+    "premios": 0,
+    "Premiada": 0,
+    "Nominada": 1
+  }
+]
