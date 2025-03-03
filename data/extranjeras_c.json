@@ -3474,9 +3474,9 @@
     "Película": "Aún estoy aquí",
     "Director": "Walter Salles",
     "País": "Brasil",
-    "Situación": "Nominada",
+    "Situación": "Premiada",
     "Nominaciones": 3,
-    "Premios": 0,
+    "Premios": 1,
     "Comentarios": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "País": "Francia",
     "Situación": "Nominada",
     "Nominaciones": 13,
-    "Premios": 0,
+    "Premios": 2,
     "Comentarios": "Película de habla no inglesa con más nominaciones"
   },
   {
@@ -3515,8 +3515,8 @@
     "Director": "Gints Zilbalodis",
     "País": "Letonia",
     "Situación": "Nominada",
-    "Nominaciones": 1,
-    "Premios": 0,
+    "Nominaciones": 2,
+    "Premios": 1,
     "Comentarios": ""
   }
 ]
